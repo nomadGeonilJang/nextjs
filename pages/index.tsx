@@ -1,3 +1,2 @@
-export const Home = () => <h1>hello</h1>
-
-export default Home;
+const MainPage = () => <h1>MainPage</h1>
+export default MainPage;
