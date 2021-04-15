@@ -1,10 +1,10 @@
 import { useRouter } from 'next/router'
 
-const Project = (props: any) => {
+const Project = () => {
 
-    const { query: { project } } = useRouter();
+    const { query: { id } } = useRouter();
 
-    console.log(project)
+    console.log(id)
     return (
         <div>
             Project
