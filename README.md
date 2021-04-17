@@ -9,3 +9,5 @@ From Code-based to File-based
 2. 동적 라우팅을 지원한다 /products/[id].js
 
 - useRouter를 사용하여 해당 쿼리에 접근할 수 있다.
+
+# getStaticProps
